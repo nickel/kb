@@ -1,0 +1,2042 @@
+#FLAGGA 0
+#KSUMMA
+#PROGRAM "Kleer" "2026-09-09"
+#FORMAT "PC8"
+#GEN 20260909 "Sebastian Nehard"
+#SIETYP 4
+#FNAMN "Qredia Financial Services AB"
+#ORGNR "5595677484"
+#RAR 0 20260101 20261231
+#KONTO 1010 "Cash on hand, balances at central banks [A1]"
+#KONTO 1020 "Eligible Treasury bills etc. (F1 : F2) [A2]"
+#KONTO 1210 "Machinery and other technical equipment"
+#KONTO 1383 "Guaranteed deposits and securities, long-term"
+#KONTO 1613 "Other advances"
+#KONTO 1630 "Clearing account for taxes and charges (tax account)"
+#KONTO 1639 "AvstÑmningskonto SKV"
+#KONTO 1790 "Fîrutbetalda kostnader"
+#KONTO 1791 "Fîrutbetalda kostnader (manuella)"
+#KONTO 1930 "Danske Bank SEK 13630112595"
+#KONTO 1946 "Coin transactions"
+#KONTO 2081 "Share capital"
+#KONTO 2093 "Shareholders? contributions received"
+#KONTO 2420 "Advances from customers"
+#KONTO 2440 "Accounts payable ? trade"
+#KONTO 2614 "Output VAT, reverse charge, 25 %"
+#KONTO 2615 "Output VAT, import of goods, 25 %"
+#KONTO 2650 "VAT payable"
+#KONTO 2710 "Employee withholding taxes"
+#KONTO 2730 "Statutory social security contributions and special payroll tax"
+#KONTO 2771 "Receipt accounting"
+#KONTO 2820 "Current liabilities to employees"
+#KONTO 2920 "Accrued holiday pay"
+#KONTO 2940 "Accrued statutory social security and other contributions"
+#KONTO 2990 "Upplupna kostnader"
+#KONTO 3000 "Lending to Swedish credit institutions [D1]"
+#KONTO 3740 "Rounding-off to whole kronor"
+#KONTO 3960 "Exchange gains on operating receiva?bles and liabilities"
+#KONTO 5010 "Rent"
+#KONTO 5410 "Consumable equipment"
+#KONTO 5460 "Consumable materials"
+#KONTO 5800 "Travel expenses (control account)"
+#KONTO 5830 "Board and lodging"
+#KONTO 6310 "Corporate insurance"
+#KONTO 6530 "Accountancy services"
+#KONTO 6540 "IT services"
+#KONTO 6550 "Consulting fees"
+#KONTO 6570 "Banking costs"
+#KONTO 6571 "FSA Licens (banklicenskostnader)"
+#KONTO 6930 "Costs relating to trademarks etc."
+#KONTO 6991 "Other external expenses, tax?deductible"
+#KONTO 7210 "Salaries to white-collar employees"
+#KONTO 7290 "Change in accrued holiday pay liability"
+#KONTO 7323 "Tax-exempt subsistence allowances, overseas"
+#KONTO 7510 "Statutory social security contributions"
+#KONTO 7519 "Statutory social security contributions on holiday pay and wage/salary liabilities"
+#KONTO 7690 "Other personnel costs"
+#KONTO 7960 "Exchange losses on operating receivables and liabilities"
+#KONTO 8314 "Interest income, tax-exempt"
+#IB 0 1010 0.00
+#IB 0 1020 0.00
+#IB 0 1210 0.00
+#IB 0 1383 0.00
+#IB 0 1613 0.00
+#IB 0 1630 0.00
+#IB 0 1639 0.00
+#IB 0 1790 0.00
+#IB 0 1791 0.00
+#IB 0 1930 0.00
+#IB 0 1946 0.00
+#IB 0 2081 0.00
+#IB 0 2093 0.00
+#IB 0 2420 0.00
+#IB 0 2440 0.00
+#IB 0 2614 0.00
+#IB 0 2615 0.00
+#IB 0 2650 0.00
+#IB 0 2710 0.00
+#IB 0 2730 0.00
+#IB 0 2771 0.00
+#IB 0 2820 0.00
+#IB 0 2920 0.00
+#IB 0 2940 0.00
+#IB 0 2990 0.00
+#UB 0 1010 1.00
+#UB 0 1020 1.00
+#UB 0 1210 2.00
+#UB 0 1383 90000.00
+#UB 0 1613 0.00
+#UB 0 1630 -247735.00
+#UB 0 1639 247801.00
+#UB 0 1790 298511.45
+#UB 0 1791 0.00
+#UB 0 1930 5670461.69
+#UB 0 1946 208245.95
+#UB 0 2081 -25000.00
+#UB 0 2093 -11307437.65
+#UB 0 2420 0.00
+#UB 0 2440 -1480016.00
+#UB 0 2614 -1392.00
+#UB 0 2615 -15334.66
+#UB 0 2650 0.00
+#UB 0 2710 0.00
+#UB 0 2730 0.00
+#UB 0 2771 274579.29
+#UB 0 2820 0.00
+#UB 0 2920 -80784.00
+#UB 0 2940 -25382.34
+#UB 0 2990 0.00
+#RES 0 3000 -4.00
+#RES 0 3740 -2.75
+#RES 0 3960 -982.10
+#RES 0 5010 254095.00
+#RES 0 5410 120946.50
+#RES 0 5460 13990.25
+#RES 0 5800 78485.72
+#RES 0 5830 4944.59
+#RES 0 6310 3608.00
+#RES 0 6530 50000.00
+#RES 0 6540 274324.78
+#RES 0 6550 1866936.91
+#RES 0 6570 3049.50
+#RES 0 6571 1500000.00
+#RES 0 6930 85073.45
+#RES 0 6991 3075.00
+#RES 0 7210 1530544.37
+#RES 0 7290 80784.00
+#RES 0 7323 7938.00
+#RES 0 7510 480897.04
+#RES 0 7519 25382.34
+#RES 0 7690 3403.01
+#RES 0 7960 7054.66
+#RES 0 8314 -66.00
+#VER "A" 1 20260424 "Banktransaktion DBT. Martin" 20260511
+{
+    #TRANS 1613 { } 71919.11
+    #TRANS 1930 { } -71919.11
+}
+#VER "A" 2 20260410 "Banktransaktion Avgift, DBS 3825-0224820596" 20260511
+{
+    #TRANS 1930 { } -1.85
+    #TRANS 6570 { } 1.85
+}
+#VER "A" 3 20260326 "Banktransaktion GC38992" 20260511
+{
+    #TRANS 1930 { } 25000.00
+    #TRANS 2081 { } -25000.00
+}
+#VER "A" 4 20260410 "Banktransaktion OFU3825-0224820596" 20260511
+{
+    #TRANS 1930 { } 807439.50
+    #TRANS 2093 { } -807439.50
+}
+#VER "A" 5 20260424 "Banktransaktion DBT. Johannes" 20260511
+{
+    #TRANS 1613 { } 196777.48
+    #TRANS 1930 { } -196777.48
+}
+#VER "A" 6 20260331 "Bankkostnader - Avgifter enligt avisering," 20260511
+{
+    #TRANS 1930 { } -1500.00
+    #TRANS 6570 { } 1500.00
+}
+#VER "A" 7 20260630 "AktieÑgartillskott" 20260715
+{
+    #TRANS 2093 { } -1500000.00
+    #TRANS 6571 { } 1500000.00
+}
+#VER "A" 8 20260630 "Flytt kostnad" 20260715
+{
+    #TRANS 5410 { } 43695.00
+    #TRANS 7690 { } -43695.00
+}
+#VER "A" 9 20260701 "Justering moms RE26/0006" 20260731
+{
+    #TRANS 2615 { } 17282.86
+    #TRANS 6930 { } -17282.86
+}
+#VER "A" 10 20260803 "Valutadiff" 20260803
+{
+    #TRANS 2420 { } 19.40
+    #TRANS 3960 { } -19.40
+}
+#VER "A" 11 20260701 "VÑndning - Kvittning Agentes de la Propiedad Industrial (PRO26/0779)" 20260804
+{
+    #TRANS 2420 { } 15794.89
+    #TRANS 6930 { } -3948.72
+    #TRANS 2615 { } 3948.72
+    #TRANS 6930 { } -15794.89
+}
+#VER "A" 12 20260820 "Test" 20260820
+{
+    #TRANS 3000 { } -1.00
+    #TRANS 1010 { } 1.00
+    #TRANS 3000 { } -1.00
+    #TRANS 1020 { } 1.00
+    #TRANS 3000 { } -2.00
+    #TRANS 1210 { } 1.00
+    #TRANS 1210 { } 1.00
+}
+#VER "A" 13 20260831 "Leverantîrsfaktura Vilja Solutions AB (11178) - kostnadsfîrs" 20260903
+{
+    #TRANS 1791 { } -250000.00
+    #TRANS 6540 { } 250000.00
+}
+#VER "C" 1 20260803 "Kvittning Agentes de la Propiedad Industrial (E26/0230)" 20260803
+{
+    #TRANS 2420 { } -5514.25
+    #TRANS 2440 { } 5514.25
+}
+#VER "C" 2 20260803 "Kvittning Agentes de la Propiedad Industrial (RE26/0010)" 20260803
+{
+    #TRANS 2420 { } 1491.50
+    #TRANS 2440 { } -1491.50
+}
+#VER "C" 3 20260803 "Kvittning Agentes de la Propiedad Industrial (RE26/0009)" 20260803
+{
+    #TRANS 2420 { } 4003.35
+    #TRANS 2440 { } -4003.35
+}
+#VER "C" 4 20260701 "Kvittning Agentes de la Propiedad Industrial (PRO26/0779)" 20260804
+{
+    #TRANS 2420 { } -15794.89
+    #TRANS 2440 { } 15794.89
+}
+#VER "D" 1 20260401 "Leverantîrsfaktura Kleer Group AB (296130)" 20260425
+{
+    #TRANS 2440 { } -18750.00
+    #TRANS 6530 { } 18750.00
+}
+#VER "D" 2 20260417 "Leverantîrsfaktura BolagsrÑtt Sundsvall AB (164043)" 20260425
+{
+    #TRANS 2440 { } -3075.00
+    #TRANS 6991 { } 3075.00
+}
+#VER "D" 3 20260501 "Leverantîrsfaktura Skatteverket (AGI April 2026)" 20260512
+{
+    #TRANS 1639 { } 296946.00
+    #TRANS 2440 { } -296946.00
+}
+#VER "D" 4 20260521 "Leverantîrsfaktura Admincontrol AS (00139023)" 20260522
+{
+    #TRANS 1790 { } 36114.49
+    #TRANS 2440 { } -38015.25
+    #TRANS 2615 { } -9503.81
+    #TRANS 6540 { } -26610.68
+    #TRANS 6540 { } 38015.25
+}
+#VER "D" 5 20260601 "Leverantîrsfaktura Skatteverket (AGI maj 2026)" 20260604
+{
+    #TRANS 1639 { } 133467.00
+    #TRANS 2440 { } -133467.00
+}
+#VER "D" 6 20260501 "Leverantîrsfaktura Kleer Group AB (296937)" 20260610
+{
+    #TRANS 2440 { } -6250.00
+    #TRANS 6530 { } 6250.00
+}
+#VER "D" 7 20260604 "Leverantîrsfaktura Zenvise AB (1371)" 20260611
+{
+    #TRANS 2440 { } -32125.00
+    #TRANS 2990 { } 32125.00
+    #TRANS 6550 { } 0.00
+}
+#VER "D" 8 20260601 "Leverantîrsfaktura Kleer Group AB (297427)" 20260624
+{
+    #TRANS 2440 { } -6250.00
+    #TRANS 6530 { } 6250.00
+}
+#VER "D" 9 20260604 "Leverantîrsfaktura Mesther AB / Fortnox Finans AB (24)" 20260624
+{
+    #TRANS 2440 { } -54688.00
+    #TRANS 2990 { } 54688.00
+    #TRANS 6550 { } 0.00
+}
+#VER "D" 10 20260531 "Leverantîrsfaktura 7a Sevena AB (95074)" 20260624
+{
+    #TRANS 2440 { } -11625.00
+    #TRANS 5010 { } 9875.00
+    #TRANS 7690 { } 1750.00
+}
+#VER "D" 11 20260612 "Leverantîrsfaktura 7a Sevena AB (95374)" 20260624
+{
+    #TRANS 2440 { } -53710.00
+    #TRANS 2990 { } 8710.00
+    #TRANS 5010 { } 45000.00
+}
+#VER "D" 12 20260531 "Leverantîrsfaktura Visma Solutions Oy (13043324)" 20260629
+{
+    #TRANS 2440 { } -104.03
+    #TRANS 2615 { } -26.01
+    #TRANS 6540 { } 26.01
+    #TRANS 6540 { } 104.03
+}
+#VER "D" 13 20260526 "Leverantîrsfaktura Deloitte AB (36400100013277)" 20260629
+{
+    #TRANS 2440 { } -246933.91
+    #TRANS 6550 { } 246933.91
+}
+#VER "D" 14 20260612 "Leverantîrsfaktura 7a Sevena AB (95375)" 20260629
+{
+    #TRANS 1790 { } 180000.00
+    #TRANS 2440 { } -180000.00
+    #TRANS 5010 { } 0.00
+}
+#VER "D" 15 20260701 "Leverantîrsfaktura Skatteverket (SKV juli)" 20260706
+{
+    #TRANS 1639 { } 179701.00
+    #TRANS 2440 { } -179701.00
+}
+#VER "D" 16 20260612 "Leverantîrsfaktura Agentes de la Propiedad Industrial (E26/0183)" 20260714
+{
+    #TRANS 2440 { } -605.00
+    #TRANS 2615 { } -151.25
+    #TRANS 6930 { } 151.25
+    #TRANS 6930 { } 605.00
+}
+#VER "D" 17 20260619 "Leverantîrsfaktura Agentes de la Propiedad Industrial (E26/0195)" 20260714
+{
+    #TRANS 2440 { } -3987.37
+    #TRANS 2615 { } -996.84
+    #TRANS 6930 { } 996.84
+    #TRANS 6930 { } 3987.37
+}
+#VER "D" 18 20260630 "Leverantîrsfaktura Visma Solutions Oy (13044795)" 20260714
+{
+    #TRANS 2440 { } -195.00
+    #TRANS 2615 { } -48.75
+    #TRANS 6540 { } 48.75
+    #TRANS 6540 { } 195.00
+}
+#VER "D" 19 20260630 "Leverantîrsfaktura 7a Sevena AB (95719)" 20260714
+{
+    #TRANS 2440 { } -4970.00
+    #TRANS 5010 { } 4970.00
+}
+#VER "D" 20 20260630 "Leverantîrsfaktura Agentes de la Propiedad Industrial (E26/0201)" 20260714
+{
+    #TRANS 2440 { } -4026.94
+    #TRANS 2615 { } -1006.74
+    #TRANS 6930 { } 1006.74
+    #TRANS 6930 { } 4026.94
+}
+#VER "D" 21 20260701 "Leverantîrsfaktura Agentes de la Propiedad Industrial (PRO26/0779)" 20260714
+{
+    #TRANS 2440 { } -15794.89
+    #TRANS 2615 { } -3948.72
+    #TRANS 6930 { } 3948.72
+    #TRANS 6930 { } 15794.89
+}
+#VER "D" 22 20260701 "Leverantîrsfaktura Agentes de la Propiedad Industrial (E26/0202)" 20260714
+{
+    #TRANS 2440 { } -34565.70
+    #TRANS 2615 { } -8641.43
+    #TRANS 6930 { } 8641.43
+    #TRANS 6930 { } 34565.70
+}
+#VER "D" 23 20260701 "Leverantîrskreditfaktura Agentes de la Propiedad Industrial (RE26/0006)" 20260714
+{
+    #TRANS 2440 { } 34565.70
+    #TRANS 2615 { } -8641.43
+    #TRANS 6930 { } 8641.43
+    #TRANS 6930 { } -34565.70
+}
+#VER "D" 24 20260701 "Leverantîrsfaktura Agentes de la Propiedad Industrial (E26/0203)" 20260714
+{
+    #TRANS 2440 { } -41824.49
+    #TRANS 2615 { } -10456.12
+    #TRANS 6930 { } 10456.12
+    #TRANS 6930 { } 41824.49
+}
+#VER "D" 25 20260702 "Leverantîrsfaktura Mesther AB / Fortnox Finans AB (26)" 20260714
+{
+    #TRANS 2440 { } -122656.00
+    #TRANS 2990 { } 122656.00
+    #TRANS 6550 { } 0.00
+}
+#VER "D" 26 20260706 "Leverantîrsfaktura Zenvise AB (1380)" 20260714
+{
+    #TRANS 2440 { } -361406.00
+    #TRANS 2990 { } 361406.00
+    #TRANS 6550 { } 0.00
+}
+#VER "D" 27 20260706 "Leverantîrsfaktura Vilja Solutions AB (11178)" 20260714
+{
+    #TRANS 1791 { } 250000.00
+    #TRANS 2440 { } -250000.00
+}
+#VER "D" 28 20260707 "Leverantîrsfaktura 7a Sevena AB (95373)" 20260714
+{
+    #TRANS 1383 { } 90000.00
+    #TRANS 2440 { } -90000.00
+}
+#VER "D" 29 20260715 "Leverantîrskreditfaktura Agentes de la Propiedad Industrial (RE26/0006) - Valutakursjustering" 20260715
+{
+}
+#VER "D" 30 20260715 "Leverantîrskreditfaktura Agentes de la Propiedad Industrial (RE26/0006) - Valutakursjustering" 20260715
+{
+}
+#VER "D" 31 20260715 "Leverantîrskreditfaktura Agentes de la Propiedad Industrial (RE26/0006) - Valutakursjustering" 20260715
+{
+}
+#VER "D" 32 20260707 "Leverantîrsfaktura Deloitte AB (36400100013277)" 20260715
+{
+    #TRANS 2420 { } 252910.78
+    #TRANS 2440 { } -251948.09
+    #TRANS 3960 { } -962.69
+}
+#VER "D" 33 20260716 "Leverantîrsfaktura Craig Shaw (UtlÑgg)" 20260716
+{
+    #TRANS 2440 { } -6717.93
+    #TRANS 5800 { } 6717.93
+}
+#VER "D" 34 20260716 "Leverantîrsfaktura Viktor Karlstrîm (UtlÑgg)" 20260716
+{
+    #TRANS 2440 { } -10091.38
+    #TRANS 5800 { } 10091.38
+}
+#VER "D" 35 20260716 "Leverantîrsfaktura Agentes de la Propiedad Industrial (E26/0237)" 20260803
+{
+    #TRANS 2440 { } -14601.73
+    #TRANS 2615 { } -3650.43
+    #TRANS 6930 { } 3650.43
+    #TRANS 6930 { } 14601.73
+}
+#VER "D" 36 20260716 "Leverantîrsfaktura Agentes de la Propiedad Industrial (E26/0233)" 20260803
+{
+    #TRANS 2440 { } -34356.98
+    #TRANS 2615 { } -8589.25
+    #TRANS 6930 { } 8589.25
+    #TRANS 6930 { } 34356.98
+}
+#VER "D" 37 20260716 "Leverantîrsfaktura Agentes de la Propiedad Industrial (E26/0234)" 20260803
+{
+    #TRANS 2440 { } -4207.48
+    #TRANS 2615 { } -1051.87
+    #TRANS 6930 { } 1051.87
+    #TRANS 6930 { } 4207.48
+}
+#VER "D" 38 20260716 "Leverantîrsfaktura Agentes de la Propiedad Industrial (E26/0232)" 20260803
+{
+    #TRANS 2440 { } -3308.55
+    #TRANS 2615 { } -827.14
+    #TRANS 6930 { } 827.14
+    #TRANS 6930 { } 3308.55
+}
+#VER "D" 39 20260716 "Leverantîrsfaktura Agentes de la Propiedad Industrial (E26/0231)" 20260803
+{
+    #TRANS 2440 { } -3308.55
+    #TRANS 2615 { } -827.14
+    #TRANS 6930 { } 827.14
+    #TRANS 6930 { } 3308.55
+}
+#VER "D" 40 20260716 "Leverantîrsfaktura Agentes de la Propiedad Industrial (E26/0230)" 20260803
+{
+    #TRANS 2440 { } -5514.25
+    #TRANS 2615 { } -1378.56
+    #TRANS 6930 { } 1378.56
+    #TRANS 6930 { } 5514.25
+}
+#VER "D" 41 20260716 "Leverantîrskreditfaktura Agentes de la Propiedad Industrial (RE26/0007)" 20260803
+{
+    #TRANS 2440 { } 6672.24
+    #TRANS 2615 { } 1668.06
+    #TRANS 6930 { } -1668.06
+    #TRANS 6930 { } -6672.24
+}
+#VER "D" 42 20260716 "Leverantîrskreditfaktura Agentes de la Propiedad Industrial (RE26/0011)" 20260803
+{
+    #TRANS 2440 { } 5091.09
+    #TRANS 2615 { } 1272.77
+    #TRANS 6930 { } -1272.77
+    #TRANS 6930 { } -5091.09
+}
+#VER "D" 43 20260716 "Leverantîrskreditfaktura Agentes de la Propiedad Industrial (RE26/0008)" 20260803
+{
+    #TRANS 2440 { } 4003.35
+    #TRANS 2615 { } 1000.84
+    #TRANS 6930 { } -1000.84
+    #TRANS 6930 { } -4003.35
+}
+#VER "D" 44 20260716 "Leverantîrskreditfaktura Agentes de la Propiedad Industrial (RE26/0010)" 20260803
+{
+    #TRANS 2440 { } 41571.93
+    #TRANS 2615 { } 10392.98
+    #TRANS 6930 { } -10392.98
+    #TRANS 6930 { } -41571.93
+}
+#VER "D" 45 20260730 "Leverantîrsfaktura Agentes de la Propiedad Industrial (E26/0249)" 20260803
+{
+    #TRANS 2440 { } -2411.15
+    #TRANS 2615 { } -602.79
+    #TRANS 6930 { } 602.79
+    #TRANS 6930 { } 2411.15
+}
+#VER "D" 46 20260701 "Leverantîrsfaktura Agentes de la Propiedad Industrial (E26/0183)" 20260803
+{
+    #TRANS 2440 { } -6712.78
+    #TRANS 2615 { } -1678.19
+    #TRANS 6930 { } 1678.19
+    #TRANS 6930 { } 6712.78
+}
+#VER "D" 47 20260709 "Leverantîrsfaktura Agentes de la Propiedad Industrial (E26/0220)" 20260803
+{
+    #TRANS 2440 { } -5106.55
+    #TRANS 2615 { } -1276.67
+    #TRANS 6930 { } 1276.67
+    #TRANS 6930 { } 5106.55
+}
+#VER "D" 48 20260716 "Leverantîrskreditfaktura Agentes de la Propiedad Industrial (RE26/0009)" 20260803
+{
+    #TRANS 2440 { } 4003.35
+    #TRANS 2615 { } 1000.84
+    #TRANS 6930 { } -1000.84
+    #TRANS 6930 { } -4003.35
+}
+#VER "D" 49 20260803 "Leverantîrskreditfaktura Agentes de la Propiedad Industrial (RE26/0006) - Valutakursjustering" 20260803
+{
+    #TRANS 2440 { } -0.73
+    #TRANS 7960 { } 0.73
+}
+#VER "D" 50 20260803 "Leverantîrskreditfaktura Agentes de la Propiedad Industrial (RE26/0010) - Valutakursjustering" 20260803
+{
+}
+#VER "D" 51 20260803 "Leverantîrskreditfaktura Agentes de la Propiedad Industrial (RE26/0006) - Valutakursjustering" 20260803
+{
+    #TRANS 2440 { } -40.30
+    #TRANS 7960 { } 40.30
+}
+#VER "D" 52 20260803 "Leverantîrskreditfaktura Agentes de la Propiedad Industrial (RE26/0006) - Valutakursjustering" 20260803
+{
+    #TRANS 2440 { } -23.91
+    #TRANS 7960 { } 23.91
+}
+#VER "D" 53 20260803 "Leverantîrskreditfaktura Agentes de la Propiedad Industrial (RE26/0006) - Valutakursjustering" 20260803
+{
+    #TRANS 2440 { } -15.47
+    #TRANS 7960 { } 15.47
+}
+#VER "D" 54 20260803 "Leverantîrskreditfaktura Agentes de la Propiedad Industrial (RE26/0006) - Valutakursjustering" 20260803
+{
+    #TRANS 2440 { } 0.01
+    #TRANS 3960 { } -0.01
+}
+#VER "D" 55 20260731 "Leverantîrsfaktura 7a Sevena AB (95871)" 20260806
+{
+    #TRANS 2440 { } -590.00
+    #TRANS 5010 { } 590.00
+}
+#VER "D" 56 20260731 "Leverantîrsfaktura Visma Solutions Oy (13045915)" 20260806
+{
+    #TRANS 2440 { } -140.00
+    #TRANS 2615 { } -35.00
+    #TRANS 6540 { } 35.00
+    #TRANS 6540 { } 140.00
+}
+#VER "D" 57 20260801 "Leverantîrsfaktura Skatteverket (SKV aug)" 20260806
+{
+    #TRANS 1639 { } 221037.00
+    #TRANS 2440 { } -221037.00
+}
+#VER "D" 58 20260806 "Leverantîrsfaktura Fortnox Finans AB (27)" 20260820
+{
+    #TRANS 2440 { } -101875.00
+    #TRANS 2990 { } 101875.00
+    #TRANS 6550 { } 0.00
+}
+#VER "D" 59 20260701 "Leverantîrsfaktura Kleer Group AB (298970)" 20260825
+{
+    #TRANS 2440 { } -6250.00
+    #TRANS 6530 { } 6250.00
+}
+#VER "D" 60 20260801 "Leverantîrsfaktura Kleer Group AB (300686)" 20260825
+{
+    #TRANS 2440 { } -6250.00
+    #TRANS 6530 { } 6250.00
+}
+#VER "D" 61 20260701 "Leverantîrsfaktura Admincontrol AS (INV00139023) (Borttagen)" 20260825
+{
+}
+#VER "D" 62 20260815 "Leverantîrsfaktura 7a Sevena AB (96415)" 20260825
+{
+    #TRANS 1790 { } 270000.00
+    #TRANS 2440 { } -270000.00
+    #TRANS 5010 { } 0.00
+}
+#VER "D" 63 20260820 "Leverantîrsfaktura Zenvise AB (1394)" 20260901
+{
+    #TRANS 2440 { } -145366.00
+    #TRANS 2990 { } 145366.00
+    #TRANS 6550 { } 0.00
+}
+#VER "D" 64 20260831 "Leverantîrsfaktura Sharp Recruitment Sweden AB (4087)" 20260903
+{
+    #TRANS 2440 { } -65625.00
+    #TRANS 6550 { } 65625.00
+}
+#VER "D" 65 20260831 "Leverantîrsfaktura 7a Sevena AB (96680)" 20260903
+{
+    #TRANS 2440 { } -4950.00
+    #TRANS 5010 { } 4950.00
+}
+#VER "D" 66 20260901 "Leverantîrsfaktura Kleer Group AB (300956)" 20260903
+{
+    #TRANS 2440 { } -6250.00
+    #TRANS 6530 { } 6250.00
+}
+#VER "D" 67 20260901 "Leverantîrsfaktura Skatteverket (SKV sep)" 20260903
+{
+    #TRANS 1639 { } 247801.00
+    #TRANS 2440 { } -247801.00
+}
+#VER "D" 68 20260831 "Leverantîrsfaktura Mindstreet Group AB (1977)" 20260909
+{
+    #TRANS 2440 { } -232926.00
+    #TRANS 6550 { } 232926.00
+}
+#VER "D" 69 20260831 "Leverantîrsfaktura Mesther AB / Fortnox Finans AB (30)" 20260909
+{
+    #TRANS 2440 { } -197345.00
+    #TRANS 6550 { } 197345.00
+}
+#VER "D" 70 20260831 "Leverantîrsfaktura Zenvise AB (1398)" 20260909
+{
+    #TRANS 2440 { } -305991.00
+    #TRANS 6550 { } 305991.00
+}
+#VER "D" 71 20260904 "Leverantîrsfaktura S&p Insurance Consulting AB (SMR20260000064332)" 20260909
+{
+    #TRANS 2440 { } -3608.00
+    #TRANS 6310 { } 3608.00
+}
+#VER "D" 72 20260831 "Leverantîrsfaktura Visma Solutions Oy (13047105)" 20260909
+{
+    #TRANS 2440 { } -154.00
+    #TRANS 2615 { } -38.50
+    #TRANS 6540 { } 38.50
+    #TRANS 6540 { } 154.00
+}
+#VER "F" 1 20260201 "Periodisering av utlÑggsjournal 1" 20260422
+{
+    #TRANS 2990 { } -735.00
+    #TRANS 5800 { } 735.00
+}
+#VER "F" 2 20260201 "Periodisering av utlÑggsjournal 2" 20260425
+{
+    #TRANS 2990 { } -3698.29
+    #TRANS 5800 { } 1532.46
+    #TRANS 5830 { } 2165.83
+}
+#VER "F" 3 20260301 "Periodisering av utlÑggsjournal 2" 20260425
+{
+    #TRANS 2990 { } -22673.49
+    #TRANS 5800 { } 22673.49
+}
+#VER "F" 4 20260430 "Justering av semesterskuld" 20260430
+{
+}
+#VER "F" 5 20260507 "Arbetsgivardeklaration" 20260507
+{
+    #TRANS 1639 { } -296946.00
+    #TRANS 2710 { } 173780.00
+    #TRANS 2730 { } 123166.37
+    #TRANS 3740 { } -0.37
+}
+#VER "F" 6 20260401 "Periodisering av utlÑggsjournal 3" 20260512
+{
+    #TRANS 2990 { } -4506.77
+    #TRANS 5800 { } 4506.77
+}
+#VER "F" 7 20260531 "Justering av semesterskuld" 20260531
+{
+    #TRANS 2920 { } -79650.00
+    #TRANS 2940 { } -25026.03
+    #TRANS 7290 { } 79650.00
+    #TRANS 7519 { } 25026.03
+}
+#VER "F" 8 20260601 "Periodisering av leverantîrsfaktura Admincontrol AS (00139023)" 20260601
+{
+    #TRANS 1790 { } -1900.76
+    #TRANS 6540 { } 1900.76
+}
+#VER "F" 9 20260601 "Justering av semesterskuld" 20260601
+{
+    #TRANS 2920 { } -28620.00
+    #TRANS 2940 { } -8992.40
+    #TRANS 7290 { } 28620.00
+    #TRANS 7519 { } 8992.40
+}
+#VER "F" 10 20260601 "Arbetsgivardeklaration" 20260601
+{
+    #TRANS 1639 { } -133467.00
+    #TRANS 2710 { } 71570.00
+    #TRANS 2730 { } 61897.40
+    #TRANS 3740 { } -0.40
+}
+#VER "F" 11 20260501 "Periodisering av utlÑggsjournal 5" 20260603
+{
+    #TRANS 2990 { } -118126.58
+    #TRANS 5410 { } 56371.50
+    #TRANS 5460 { } 13640.55
+    #TRANS 5800 { } 1766.52
+    #TRANS 6540 { } 1000.00
+    #TRANS 7690 { } 45348.01
+}
+#VER "F" 12 20260501 "Periodisering av leverantîrsfaktura Zenvise AB (1371)" 20260611
+{
+    #TRANS 2990 { } -32125.00
+    #TRANS 6550 { } 32125.00
+}
+#VER "F" 13 20260501 "Periodisering av leverantîrsfaktura Mesther AB / Fortnox Finans AB (24)" 20260624
+{
+    #TRANS 2990 { } -54688.00
+    #TRANS 6550 { } 54688.00
+}
+#VER "F" 14 20260501 "Periodisering av leverantîrsfaktura 7a Sevena AB (95374)" 20260624
+{
+    #TRANS 2990 { } -8710.00
+    #TRANS 5010 { } 8710.00
+}
+#VER "F" 15 20260630 "Justering av semesterskuld" 20260630
+{
+    #TRANS 2920 { } -24732.00
+    #TRANS 2940 { } -7770.79
+    #TRANS 7290 { } 24732.00
+    #TRANS 7519 { } 7770.79
+}
+#VER "F" 16 20260701 "Periodisering av leverantîrsfaktura 7a Sevena AB (95375)" 20260701
+{
+    #TRANS 1790 { } -45000.00
+    #TRANS 5010 { } 45000.00
+}
+#VER "F" 17 20260701 "Periodisering av leverantîrsfaktura Admincontrol AS (00139023)" 20260701
+{
+    #TRANS 1790 { } -1900.76
+    #TRANS 6540 { } 1900.76
+}
+#VER "F" 18 20260702 "Arbetsgivardeklaration" 20260702
+{
+    #TRANS 1639 { } -179701.00
+    #TRANS 2710 { } 97842.00
+    #TRANS 2730 { } 81859.57
+    #TRANS 3740 { } -0.57
+}
+#VER "F" 19 20260331 "Momsrapport 2026-03-01 - 2026-03-31" 20260707
+{
+}
+#VER "F" 20 20260601 "Periodisering av leverantîrsfaktura Mesther AB / Fortnox Finans AB (26)" 20260714
+{
+    #TRANS 2990 { } -122656.00
+    #TRANS 6550 { } 122656.00
+}
+#VER "F" 21 20260601 "Periodisering av leverantîrsfaktura Zenvise AB (1380)" 20260714
+{
+    #TRANS 2990 { } -361406.00
+    #TRANS 6550 { } 361406.00
+}
+#VER "F" 22 20260601 "Periodisering av leverantîrsfaktura Vilja Solutions AB (11178)" 20260714
+{
+}
+#VER "F" 23 20260731 "Justering av semesterskuld" 20260731
+{
+    #TRANS 2920 { } -49626.00
+    #TRANS 2940 { } -15592.50
+    #TRANS 7290 { } 49626.00
+    #TRANS 7519 { } 15592.50
+}
+#VER "F" 24 20260801 "Periodisering av leverantîrsfaktura 7a Sevena AB (95375)" 20260801
+{
+    #TRANS 1790 { } -45000.00
+    #TRANS 5010 { } 45000.00
+}
+#VER "F" 25 20260801 "Periodisering av leverantîrsfaktura Admincontrol AS (00139023)" 20260801
+{
+    #TRANS 1790 { } -1900.76
+    #TRANS 6540 { } 1900.76
+}
+#VER "F" 26 20260803 "Arbetsgivardeklaration" 20260803
+{
+    #TRANS 1639 { } -208546.00
+    #TRANS 2710 { } 111331.00
+    #TRANS 2730 { } 97215.37
+    #TRANS 3740 { } -0.37
+}
+#VER "F" 27 20260630 "Momsrapport 2026-04-01 - 2026-06-30" 20260803
+{
+    #TRANS 2615 { } 12491.71
+    #TRANS 2650 { } -12491.00
+    #TRANS 3740 { } -0.71
+}
+#VER "F" 28 20260701 "Periodisering av utlÑggsjournal 8" 20260807
+{
+    #TRANS 2990 { } -2111.78
+    #TRANS 5410 { } 349.00
+    #TRANS 5460 { } 349.70
+    #TRANS 5800 { } 1029.37
+    #TRANS 5830 { } 383.71
+}
+#VER "F" 29 20260601 "Periodisering av utlÑggsjournal 7" 20260807
+{
+    #TRANS 2990 { } -6960.00
+    #TRANS 5800 { } 6960.00
+}
+#VER "F" 30 20260701 "Periodisering av utlÑggsjournal 7" 20260807
+{
+    #TRANS 2990 { } -913.32
+    #TRANS 5800 { } 160.00
+    #TRANS 5830 { } 753.32
+}
+#VER "F" 31 20260601 "Periodisering av utlÑggsjournal 9" 20260819
+{
+    #TRANS 2990 { } -1500.81
+    #TRANS 6540 { } 1500.81
+}
+#VER "F" 32 20260701 "Periodisering av utlÑggsjournal 9" 20260819
+{
+    #TRANS 2990 { } -1725.50
+    #TRANS 6540 { } 1725.50
+}
+#VER "F" 33 20260701 "Periodisering av leverantîrsfaktura Fortnox Finans AB (27)" 20260820
+{
+    #TRANS 2990 { } -101875.00
+    #TRANS 6550 { } 101875.00
+}
+#VER "F" 34 20260501 "Periodisering av leverantîrsfaktura Admincontrol AS (INV00139023) (Borttagen)" 20260825
+{
+}
+#VER "F" 35 20260601 "Periodisering av leverantîrsfaktura Admincontrol AS (INV00139023) (Borttagen)" 20260825
+{
+}
+#VER "F" 36 20260801 "Periodisering av leverantîrsfaktura Admincontrol AS (INV00139023) (Borttagen)" 20260825
+{
+}
+#VER "F" 37 20260831 "Justering av semesterskuld" 20260831
+{
+    #TRANS 2920 { } 101844.00
+    #TRANS 2940 { } 31999.38
+    #TRANS 7290 { } -101844.00
+    #TRANS 7519 { } -31999.38
+}
+#VER "F" 38 20260901 "Periodisering av leverantîrsfaktura 7a Sevena AB (95375)" 20260901
+{
+    #TRANS 1790 { } -90000.00
+    #TRANS 5010 { } 90000.00
+}
+#VER "F" 39 20260901 "Periodisering av leverantîrsfaktura Admincontrol AS (00139023)" 20260901
+{
+    #TRANS 1790 { } -1900.76
+    #TRANS 6540 { } 1900.76
+}
+#VER "F" 40 20260901 "Periodisering av leverantîrsfaktura Admincontrol AS (INV00139023) (Borttagen)" 20260901
+{
+
+}
+#VER "F" 41 20260701 "Periodisering av leverantîrsfaktura Zenvise AB (1394)" 20260901
+{
+    #TRANS 2990 { } -145366.00
+    #TRANS 6550 { } 145366.00
+}
+#VER "F" 42 20260902 "Arbetsgivardeklaration" 20260902
+{
+    #TRANS 1639 { } -247801.00
+    #TRANS 2710 { } 131043.00
+    #TRANS 2730 { } 116758.33
+    #TRANS 3740 { } -0.33
+}
+#VER "F" 43 20260630 "RÑttelse momsrapport 2026-04-01 - 2026-06-30" 20260903
+{
+    #TRANS 2615 { } -9503.81
+    #TRANS 2615 { } 9503.81
+}
+#VER "F" 44 20260801 "Periodisering av utlÑggsjournal 10" 20260909
+{
+    #TRANS 2990 { } -92.77
+    #TRANS 5830 { } 92.77
+}
+#VER "K" 1 20260422 "UtlÑggsjournal 1" 20260422
+{
+    #TRANS 2820 { } -11199.19
+    #TRANS 2990 { } 735.00
+    #TRANS 5800 { } 8915.23
+    #TRANS 5830 { } 1548.96
+}
+#VER "K" 2 20260425 "UtlÑggsjournal 2" 20260425
+{
+    #TRANS 2820 { } -39277.48
+    #TRANS 2990 { } 26371.78
+    #TRANS 5800 { } 4967.70
+    #TRANS 5830 { } 0.00
+    #TRANS 7323 { } 7938.00
+}
+#VER "K" 3 20260512 "UtlÑggsjournal 3" 20260512
+{
+    #TRANS 2615 { } -243.79
+    #TRANS 2771 { } -4506.77
+    #TRANS 2820 { } -975.15
+    #TRANS 2990 { } 4506.77
+    #TRANS 5800 { } 243.79
+    #TRANS 5800 { } 975.15
+}
+#VER "K" 4 20260526 "UtlÑggsjournal 4" 20260526
+{
+    #TRANS 2820 { } -7210.93
+    #TRANS 5800 { } 7210.93
+}
+#VER "K" 5 20260603 "UtlÑggsjournal 5" 20260603
+{
+    #TRANS 2615 { } -514.52
+    #TRANS 2771 { } -60276.51
+    #TRANS 2820 { } -57335.55
+    #TRANS 2990 { } 118126.58
+    #TRANS 5410 { } 0.00
+    #TRANS 5460 { } 0.00
+    #TRANS 5800 { } -817.21
+    #TRANS 5800 { } 817.21
+    #TRANS 6540 { } 0.00
+    #TRANS 7690 { } -1240.80
+    #TRANS 7690 { } 1240.80
+}
+#VER "K" 6 20260630 "UtlÑggsjournal 6" 20260630
+{
+    #TRANS 2771 { } -20531.00
+    #TRANS 5410 { } 20531.00
+}
+#VER "K" 7 20260807 "UtlÑggsjournal 8" 20260807
+{
+    #TRANS 2615 { } -250.61
+    #TRANS 2771 { } -1861.17
+    #TRANS 2990 { } 2111.78
+    #TRANS 5410 { } 0.00
+    #TRANS 5460 { } 0.00
+    #TRANS 5800 { } -695.50
+    #TRANS 5800 { } 695.50
+    #TRANS 5830 { } -306.97
+    #TRANS 5830 { } 306.97
+}
+#VER "K" 8 20260807 "UtlÑggsjournal 7" 20260807
+{
+    #TRANS 2614 { } -1392.00
+    #TRANS 2615 { } -150.66
+    #TRANS 2771 { } -6330.66
+    #TRANS 2990 { } 7873.32
+    #TRANS 5800 { } -5568.00
+    #TRANS 5800 { } 5568.00
+    #TRANS 5830 { } -602.66
+    #TRANS 5830 { } 602.66
+}
+#VER "K" 9 20260819 "UtlÑggsjournal 9" 20260819
+{
+    #TRANS 2771 { } -3575.88
+    #TRANS 2990 { } 3226.31
+    #TRANS 6540 { } 349.57
+}
+#VER "K" 10 20260909 "UtlÑggsjournal 10" 20260909
+{
+    #TRANS 2771 { } -92.77
+    #TRANS 2990 { } 92.77
+    #TRANS 5830 { } 0.00
+}
+#VER "L" 1 20260424 "Lînekîrning 1" 20260430
+{
+    #TRANS 1613 { } -71919.11
+    #TRANS 2710 { } -31280.00
+    #TRANS 2730 { } -28906.37
+    #TRANS 2820 { } 11199.19
+    #TRANS 7210 { } 91999.92
+    #TRANS 7510 { } 28906.37
+}
+#VER "L" 2 20260424 "Lînekîrning 2" 20260430
+{
+    #TRANS 1613 { } -196777.48
+    #TRANS 2710 { } -142500.00
+    #TRANS 2730 { } -94260.00
+    #TRANS 2820 { } 39277.48
+    #TRANS 7210 { } 300000.00
+    #TRANS 7510 { } 94260.00
+}
+#VER "L" 3 20260525 "Lînekîrning 3" 20260520
+{
+    #TRANS 1613 { } -36930.00
+    #TRANS 2710 { } -10070.00
+    #TRANS 2730 { } -14767.40
+    #TRANS 7210 { } 47000.00
+    #TRANS 7510 { } 14767.40
+}
+#VER "L" 4 20260525 "Lînekîrning 4" 20260520
+{
+    #TRANS 1613 { } -89475.15
+    #TRANS 2710 { } -61500.00
+    #TRANS 2730 { } -47130.00
+    #TRANS 2820 { } 975.15
+    #TRANS 7210 { } 150000.00
+    #TRANS 7510 { } 47130.00
+}
+#VER "L" 5 20260608 "Lînekîrning 5" 20260604
+{
+    #TRANS 1613 { } -7210.93
+    #TRANS 2820 { } 7210.93
+}
+#VER "L" 6 20260608 "Lînekîrning 6" 20260604
+{
+    #TRANS 1613 { } -57335.55
+    #TRANS 2820 { } 57335.55
+}
+#VER "L" 7 20260625 "Lînekîrning 7" 20260604
+{
+    #TRANS 1613 { } -36930.00
+    #TRANS 2710 { } -10070.00
+    #TRANS 2730 { } -14767.40
+    #TRANS 7210 { } 47000.00
+    #TRANS 7510 { } 14767.40
+}
+#VER "L" 8 20260625 "Lînekîrning 8" 20260604
+{
+    #TRANS 1613 { } -114000.00
+    #TRANS 2710 { } -86000.00
+    #TRANS 2730 { } -62840.00
+    #TRANS 7210 { } 200000.00
+    #TRANS 7510 { } 62840.00
+}
+#VER "L" 9 20260625 "Lînekîrning 9" 20260616
+{
+    #TRANS 1613 { } -11761.31
+    #TRANS 2710 { } -1772.00
+    #TRANS 2730 { } -4252.17
+    #TRANS 7210 { } 13533.31
+    #TRANS 7510 { } 4252.17
+}
+#VER "L" 10 20260724 "Lînekîrning 10" 20260706
+{
+    #TRANS 1613 { } -83163.00
+    #TRANS 2710 { } -24643.00
+    #TRANS 2730 { } -33872.65
+    #TRANS 7210 { } 107806.00
+    #TRANS 7510 { } 33872.65
+}
+#VER "L" 11 20260724 "Lînekîrning 11" 20260716
+{
+    #TRANS 1613 { } -114912.00
+    #TRANS 2710 { } -86688.00
+    #TRANS 2730 { } -63342.72
+    #TRANS 7210 { } 201600.00
+    #TRANS 7510 { } 63342.72
+}
+#VER "L" 12 20260825 "Lînekîrning 12" 20260812
+{
+    #TRANS 1613 { } -119602.14
+    #TRANS 2710 { } -36003.00
+    #TRANS 2730 { } -48891.13
+    #TRANS 7210 { } 155605.14
+    #TRANS 7510 { } 48891.13
+}
+#VER "L" 13 20260827 "Lînekîrning 13" 20260825
+{
+    #TRANS 1613 { } -120960.00
+    #TRANS 2710 { } -95040.00
+    #TRANS 2730 { } -67867.20
+    #TRANS 7210 { } 216000.00
+    #TRANS 7510 { } 67867.20
+}
+#VER "T" 1 20260428 "Banktransaktion AG11 N" 20260428
+{
+    #TRANS 1930 { } -50000.00
+    #TRANS 1946 { } 50000.00
+}
+#VER "T" 2 20260430 "Kortkîp VUELING AIRLINES (-7238)" 20260430
+{
+    #TRANS 1946 { } -1742.87
+    #TRANS 2771 { } 1742.87
+}
+#VER "T" 3 20260430 "Kortkîp VUELING AIRLINES (-7238)" 20260430
+{
+    #TRANS 1946 { } -2763.90
+    #TRANS 2771 { } 2763.90
+}
+#VER "T" 4 20260507 "Kortkîp BAKERY & TAPAS (-7238)" 20260507
+{
+    #TRANS 1946 { } -88.72
+    #TRANS 2771 { } 88.72
+}
+#VER "T" 5 20260507 "Kortkîp TAXI LLIC2225 (-7238)" 20260507
+{
+    #TRANS 1946 { } -420.71
+    #TRANS 2771 { } 420.71
+}
+#VER "T" 6 20260508 "Kortkîp AFTERLIFE (-7238)" 20260508
+{
+    #TRANS 1946 { } -187.86
+    #TRANS 2771 { } 187.86
+}
+#VER "T" 7 20260509 "Kortkîp CERVECERIA CATALANA (-7238)" 20260509
+{
+    #TRANS 1946 { } -687.23
+    #TRANS 2771 { } 687.23
+}
+#VER "T" 8 20260510 "Kortkîp Taxi Stockholm (-7238)" 20260510
+{
+    #TRANS 1946 { } -745.00
+    #TRANS 2771 { } 745.00
+}
+#VER "T" 9 20260510 "Kortkîp BOLAGSVERKET (-7238)" 20260510
+{
+    #TRANS 1946 { } -1000.00
+    #TRANS 2771 { } 1000.00
+}
+#VER "T" 10 20260510 "Kortkîp TAXI LLIC 328 (-7238)" 20260510
+{
+    #TRANS 1946 { } -396.50
+    #TRANS 2771 { } 396.50
+}
+#VER "T" 11 20260510 "Kortkîp T1006 ENRIQUE TOMAS (-7238)" 20260510
+{
+    #TRANS 1946 { } -276.99
+    #TRANS 2771 { } 276.99
+}
+#VER "T" 12 20260511 "Leverantîrsfaktura Skatteverket (1655956774848) - Betalning" 20260512
+{
+    #TRANS 1930 { } -296946.00
+    #TRANS 2440 { } 296946.00
+}
+#VER "T" 13 20260513 "Kortkîp Dustin Sverige AB (-7238)" 20260513
+{
+    #TRANS 1946 { } -5047.50
+    #TRANS 2771 { } 5047.50
+}
+#VER "T" 14 20260515 "Leverantîrsfaktura Kleer Group AB (296130) - Betalning" 20260516
+{
+    #TRANS 1930 { } -18750.00
+    #TRANS 2440 { } 18750.00
+}
+#VER "T" 15 20260518 "Leverantîrsfaktura BolagsrÑtt Sundsvall AB (16404386) - Betalning" 20260519
+{
+    #TRANS 1930 { } -3075.00
+    #TRANS 2440 { } 3075.00
+}
+#VER "T" 16 20260518 "Banktransaktion 052E082865273068 UNCONDITIONAL SHAREHOLDER CONTRIBUTION AGREEMENT QREDIA" 20260519
+{
+    #TRANS 1930 { } 3999998.15
+    #TRANS 2093 { } -3999998.15
+}
+#VER "T" 17 20260521 "Kortkîp Dustin Sverige AB (-7238)" 20260521
+{
+    #TRANS 1946 { } -23672.50
+    #TRANS 2771 { } 23672.50
+}
+#VER "T" 18 20260522 "Kortkîp BROD OCH SALT ODENPLAN (-7238)" 20260522
+{
+    #TRANS 1946 { } -102.00
+    #TRANS 2771 { } 102.00
+}
+#VER "T" 19 20260522 "Lîn till anstÑlld" 20260523
+{
+    #TRANS 1613 { } 89475.15
+    #TRANS 1930 { } -89475.15
+}
+#VER "T" 20 20260522 "Lîn till anstÑlld" 20260523
+{
+    #TRANS 1613 { } 36930.00
+    #TRANS 1930 { } -36930.00
+}
+#VER "T" 21 20260526 "Kortkîp MICROSOFTG160602541 (-4889)" 20260526
+{
+    #TRANS 1946 { } -179.23
+    #TRANS 2771 { } 179.23
+}
+#VER "T" 22 20260526 "Kortkîp SLACK T0ANUNW2DND (-4889)" 20260526
+{
+    #TRANS 1946 { } -732.80
+    #TRANS 2771 { } 732.80
+}
+#VER "T" 23 20260528 "Banktransaktion AG11 N" 20260529
+{
+    #TRANS 1930 { } -80000.00
+    #TRANS 1946 { } 80000.00
+}
+#VER "T" 24 20260529 "Kortkîp Elgiganten Kungsgatan (-7238)" 20260529
+{
+    #TRANS 1946 { } -3979.00
+    #TRANS 2771 { } 3979.00
+}
+#VER "T" 25 20260530 "Kortkîp Dustin Sverige AB (-7238)" 20260530
+{
+    #TRANS 1946 { } -23672.50
+    #TRANS 2771 { } 23672.50
+}
+#VER "T" 26 20260603 "Kortkîp Google Workspaceqredia.s (-4889)" 20260603
+{
+    #TRANS 1946 { } -4162.52
+    #TRANS 2771 { } 4162.52
+}
+#VER "T" 27 20260604 "Kortkîp MICROSOFTG161962127 (-4889)" 20260604
+{
+    #TRANS 1946 { } -127.19
+    #TRANS 2771 { } 127.19
+}
+#VER "T" 28 20260604 "Kortkîp ANTHROPIC* CLAUDE SUB (-7238)" 20260604
+{
+    #TRANS 1946 { } -250.78
+    #TRANS 2771 { } 250.78
+}
+#VER "T" 29 20260604 "Kortkîp MicrosoftG161885302 (-4889)" 20260604
+{
+    #TRANS 1946 { } -265.95
+    #TRANS 2771 { } 265.95
+}
+#VER "T" 30 20260612 "Arbetsgivaravgift maj 2026" 20260604
+{
+    #TRANS 1630 { } -61897.00
+    #TRANS 1639 { } 61897.00
+}
+#VER "T" 31 20260612 "Avdragen skatt maj 2026" 20260604
+{
+    #TRANS 1630 { } -71570.00
+    #TRANS 1639 { } 71570.00
+}
+#VER "T" 32 20260605 "Lîn till anstÑlld" 20260606
+{
+    #TRANS 1613 { } 57335.55
+    #TRANS 1930 { } -57335.55
+}
+#VER "T" 33 20260605 "Lîn till anstÑlld" 20260606
+{
+    #TRANS 1613 { } 7210.93
+    #TRANS 1930 { } -7210.93
+}
+#VER "T" 34 20260606 "IntÑktsrÑnta" 20260608
+{
+    #TRANS 1630 { } 9.00
+    #TRANS 8314 { } -9.00
+}
+#VER "T" 35 20260608 "Banktransaktion AG11 N" 20260609
+{
+    #TRANS 1930 { } -50000.00
+    #TRANS 1946 { } 50000.00
+}
+#VER "T" 36 20260610 "Kortkîp Dustin Sverige AB (-7238)" 20260610
+{
+    #TRANS 1946 { } -56683.75
+    #TRANS 2771 { } 56683.75
+}
+#VER "T" 37 20260610 "Leverantîrsfaktura Skatteverket (1655956774848) - Betalning" 20260610
+{
+    #TRANS 1930 { } -133467.00
+    #TRANS 2440 { } 133467.00
+}
+#VER "T" 38 20260611 "Kortkîp MICROSOFTG164517288 (-4889)" 20260611
+{
+    #TRANS 1946 { } -86.73
+    #TRANS 2771 { } 86.73
+}
+#VER "T" 39 20260611 "Inbetalning bokfîrd 260610" 20260611
+{
+    #TRANS 1630 { } 133467.00
+    #TRANS 1639 { } -133467.00
+}
+#VER "T" 40 20260611 "Leverantîrsfaktura Kleer Group AB (296937) - Betalning" 20260612
+{
+    #TRANS 1930 { } -6250.00
+    #TRANS 2440 { } 6250.00
+}
+#VER "T" 41 20260612 "Kortkîp CD SPORTCAB MARBELLA (-7238)" 20260612
+{
+    #TRANS 1946 { } -134.59
+    #TRANS 2771 { } 134.59
+}
+#VER "T" 42 20260612 "Kortkîp VUELING AIRLINES (-7238)" 20260612
+{
+    #TRANS 1946 { } -2514.30
+    #TRANS 2771 { } 2514.30
+}
+#VER "T" 43 20260612 "Banktransaktion AG11 N" 20260613
+{
+    #TRANS 1930 { } -50000.00
+    #TRANS 1946 { } 50000.00
+}
+#VER "T" 44 20260616 "Kortkîp welcomepickups.com (-7238)" 20260616
+{
+    #TRANS 1946 { } -651.82
+    #TRANS 2771 { } 651.82
+}
+#VER "T" 45 20260616 "Banktransaktion AG11 N" 20260617
+{
+    #TRANS 1930 { } -50000.00
+    #TRANS 1946 { } 50000.00
+}
+#VER "T" 46 20260617 "Kortkîp EL CORTE INGLES (-7238)" 20260617
+{
+    #TRANS 1946 { } -387.83
+    #TRANS 2771 { } 387.83
+}
+#VER "T" 47 20260617 "Kortkîp LOOMISP*CAFELUNYA SA-1 (-7238)" 20260617
+{
+    #TRANS 1946 { } -164.07
+    #TRANS 2771 { } 164.07
+}
+#VER "T" 48 20260617 "Kortkîp ANTHROPIC* CLAUDE TEAM (-4889)" 20260617
+{
+    #TRANS 1946 { } -1477.83
+    #TRANS 2771 { } 1477.83
+}
+#VER "T" 49 20260617 "Kortkîp CARLOS & MATILDA S.L. (-7238)" 20260617
+{
+    #TRANS 1946 { } -469.76
+    #TRANS 2771 { } 469.76
+}
+#VER "T" 50 20260618 "Kortkîp TAXI LLIC 10839 (-7238)" 20260618
+{
+    #TRANS 1946 { } -418.35
+    #TRANS 2771 { } 418.35
+}
+#VER "T" 51 20260618 "Kortkîp SANTO PANINO (-7238)" 20260618
+{
+    #TRANS 1946 { } -371.13
+    #TRANS 2771 { } 371.13
+}
+#VER "T" 52 20260620 "Kortkîp ANTHROPIC* CLAUDE TEAM (-4889)" 20260620
+{
+    #TRANS 1946 { } -1323.77
+    #TRANS 2771 { } 1323.77
+}
+#VER "T" 53 20260622 "Leverantîrsfaktura Admincontrol AS (0001390236) - Betalning" 20260623
+{
+    #TRANS 1930 { } -38139.50
+    #TRANS 2440 { } 38015.25
+    #TRANS 7960 { } 124.25
+}
+#VER "T" 54 20260623 "Kortkîp Taxi Sthlm (-7238)" 20260623
+{
+    #TRANS 1946 { } -876.00
+    #TRANS 2771 { } 876.00
+}
+#VER "T" 55 20260624 "Kortkîp At Six (-7238)" 20260624
+{
+    #TRANS 1946 { } -643.00
+    #TRANS 2771 { } 643.00
+}
+#VER "T" 56 20260624 "Kortkîp Fjaderholmarnas Krog (-7238)" 20260624
+{
+    #TRANS 1946 { } -12500.25
+    #TRANS 2771 { } 12500.25
+}
+#VER "T" 57 20260624 "Kortkîp REDERI STOCKHOLM STROM (-7238)" 20260624
+{
+    #TRANS 1946 { } -1845.00
+    #TRANS 2771 { } 1845.00
+}
+#VER "T" 58 20260624 "Kortkîp Systembolaget (-7238)" 20260624
+{
+    #TRANS 1946 { } -457.00
+    #TRANS 2771 { } 457.00
+}
+#VER "T" 59 20260624 "Lîn till anstÑlld" 20260625
+{
+    #TRANS 1613 { } 114000.00
+    #TRANS 1930 { } -114000.00
+}
+#VER "T" 60 20260624 "Lîn till anstÑlld" 20260625
+{
+    #TRANS 1613 { } 36930.00
+    #TRANS 1930 { } -36930.00
+}
+#VER "T" 61 20260624 "Lîn till anstÑlld" 20260625
+{
+    #TRANS 1613 { } 11761.31
+    #TRANS 1930 { } -11761.31
+}
+#VER "T" 62 20260625 "Kortkîp MICROSOFTG166749910 (-4889)" 20260625
+{
+    #TRANS 1946 { } -11.57
+    #TRANS 2771 { } 11.57
+}
+#VER "T" 63 20260625 "Kortkîp LILLEBRORS BAGERI (-7238)" 20260625
+{
+    #TRANS 1946 { } -312.00
+    #TRANS 2771 { } 312.00
+}
+#VER "T" 64 20260625 "Leverantîrsfaktura Kleer Group AB (297427) - Betalning" 20260626
+{
+    #TRANS 1930 { } -6250.00
+    #TRANS 2440 { } 6250.00
+}
+#VER "T" 65 20260626 "Kortkîp ANTHROPIC* CLAUDE TEAM (-4889)" 20260626
+{
+    #TRANS 1946 { } -200.69
+    #TRANS 2771 { } 200.69
+}
+#VER "T" 66 20260626 "Kortkîp CENTRAL HOTELL (-7238)" 20260626
+{
+    #TRANS 1946 { } -310.00
+    #TRANS 2771 { } 310.00
+}
+#VER "T" 67 20260626 "Kortkîp SLACK T0ANUNW2DND (-4889)" 20260626
+{
+    #TRANS 1946 { } -1312.65
+    #TRANS 2771 { } 1312.65
+}
+#VER "T" 68 20260626 "Kortkîp Espresso House 169 (-7238)" 20260626
+{
+    #TRANS 1946 { } -84.00
+    #TRANS 2771 { } 84.00
+}
+#VER "T" 69 20260626 "Kortkîp Espresso House 169 (-7238)" 20260626
+{
+    #TRANS 1946 { } -110.00
+    #TRANS 2771 { } 110.00
+}
+#VER "T" 70 20260626 "Leverantîrsfaktura Mesther AB / Fortnox Finans AB (504002257749058) - Betalning" 20260627
+{
+    #TRANS 1930 { } -54688.00
+    #TRANS 2440 { } 54688.00
+}
+#VER "T" 71 20260626 "Leverantîrsfaktura 7a Sevena AB (95074) - Betalning" 20260627
+{
+    #TRANS 1930 { } -11625.00
+    #TRANS 2440 { } 11625.00
+}
+#VER "T" 72 20260627 "Kortkîp MICROSOFTG166925870 (-4889)" 20260627
+{
+    #TRANS 1946 { } -1254.58
+    #TRANS 2771 { } 1254.58
+}
+#VER "T" 73 20260627 "Kortkîp Elgiganten Kungsgatan (-0179)" 20260627
+{
+    #TRANS 1946 { } -20531.00
+    #TRANS 2771 { } 20531.00
+}
+#VER "T" 74 20260629 "Leverantîrsfaktura 7a Sevena AB (95374) - Betalning" 20260630
+{
+    #TRANS 1930 { } -53710.00
+    #TRANS 2440 { } 53710.00
+}
+#VER "T" 75 20260630 "Bankkostnader - AVGIFTER ENLIGT AVISERING, 1600000001" 20260701
+{
+    #TRANS 1930 { } -450.00
+    #TRANS 6570 { } 450.00
+}
+#VER "T" 76 20260630 "Bankkostnader - AVGIFTER ENLIGT AVISERING, 1600000001" 20260701
+{
+    #TRANS 1930 { } -25.00
+    #TRANS 6570 { } 25.00
+}
+#VER "T" 77 20260630 "Leverantîrsfaktura Visma Solutions Oy (13043324) - Betalning" 20260701
+{
+    #TRANS 1930 { } -104.03
+    #TRANS 2440 { } 104.03
+}
+#VER "T" 78 20260630 "Leverantîrsfaktura Deloitte AB (364001000132777) - Betalning" 20260701
+{
+    #TRANS 1930 { } -252910.78
+    #TRANS 2440 { } 246933.91
+    #TRANS 7960 { } 5976.87
+}
+#VER "T" 79 20260630 "Bankkostnader - AVGIFTER ENLIGT AVISERING, 1600162934" 20260701
+{
+    #TRANS 1930 { } -1068.95
+    #TRANS 6570 { } 1068.95
+}
+#VER "T" 80 20260701 "Kortkîp NORDIC LEGAL EN (-4889)" 20260701
+{
+    #TRANS 1946 { } -1264.84
+    #TRANS 2771 { } 1264.84
+}
+#VER "T" 81 20260701 "Kortkîp NORD* TEAMS (-7611)" 20260701
+{
+    #TRANS 1946 { } -1500.81
+    #TRANS 2771 { } 1500.81
+}
+#VER "T" 82 20260701 "Banktransaktion AG11 N" 20260702
+{
+    #TRANS 1930 { } -50000.00
+    #TRANS 1946 { } 50000.00
+}
+#VER "T" 83 20260702 "Kortkîp MICROSOFTG167747159 (-4889)" 20260702
+{
+    #TRANS 1946 { } -1941.55
+    #TRANS 2771 { } 1941.55
+}
+#VER "T" 84 20260702 "Kortkîp HEXNODE   MITSOGO INC (-4889)" 20260702
+{
+    #TRANS 1946 { } -918.77
+    #TRANS 2771 { } 918.77
+}
+#VER "T" 85 20260702 "Kortkîp norwegian.com (-0179)" 20260702
+{
+    #TRANS 1946 { } -5568.00
+    #TRANS 2771 { } 5568.00
+}
+#VER "T" 86 20260703 "Kortkîp hallon (-7611)" 20260703
+{
+    #TRANS 1946 { } -224.74
+    #TRANS 2771 { } 224.74
+}
+#VER "T" 87 20260703 "Kortkîp Google Workspaceqredia.s (-4889)" 20260703
+{
+    #TRANS 1946 { } -5413.10
+    #TRANS 2771 { } 5413.10
+}
+#VER "T" 88 20260713 "Avdragen skatt juni 2026" 20260703
+{
+    #TRANS 1630 { } -97842.00
+    #TRANS 1639 { } 97842.00
+}
+#VER "T" 89 20260713 "Arbetsgivaravgift juni 2026" 20260703
+{
+    #TRANS 1630 { } -81859.00
+    #TRANS 1639 { } 81859.00
+
+}
+#VER "T" 90 20260704 "Kortkîp CLAS OHLSON (-0179)" 20260704
+{
+    #TRANS 1946 { } -349.00
+    #TRANS 2771 { } 349.00
+}
+#VER "T" 91 20260704 "Kortkîp CLAS OHLSON (-0179)" 20260704
+{
+    #TRANS 1946 { } -349.70
+    #TRANS 2771 { } 349.70
+}
+#VER "T" 92 20260704 "Kortkîp ANTHROPIC* CLAUDE SUB (-7238)" 20260704
+{
+    #TRANS 1946 { } -256.15
+    #TRANS 2771 { } 256.15
+}
+#VER "T" 93 20260704 "IntÑktsrÑnta" 20260706
+{
+    #TRANS 1630 { } 8.00
+    #TRANS 8314 { } -8.00
+}
+#VER "T" 94 20260706 "Banktransaktion AG11 N" 20260707
+{
+    #TRANS 1930 { } -50000.00
+    #TRANS 1946 { } 50000.00
+}
+#VER "T" 95 20260706 "Leverantîrsfaktura Zenvise AB (137166) - Betalning" 20260707
+{
+    #TRANS 1930 { } -32125.00
+    #TRANS 2440 { } 32125.00
+}
+#VER "T" 96 20260707 "Banktransaktion 858528" 20260707
+{
+    #TRANS 1930 { } 252910.78
+    #TRANS 2420 { } -252910.78
+}
+#VER "T" 97 20260708 "Kortkîp Arlanda Express (-0179)" 20260708
+{
+    #TRANS 1946 { } -160.00
+    #TRANS 2771 { } 160.00
+}
+#VER "T" 98 20260708 "Kortkîp Dustin Sverige AB (-7238)" 20260708
+{
+    #TRANS 1946 { } -47683.75
+    #TRANS 2771 { } 47683.75
+}
+#VER "T" 99 20260708 "Kortkîp Dustin Sverige AB (-7238)" 20260708
+{
+    #TRANS 1946 { } -25183.75
+    #TRANS 2771 { } 25183.75
+}
+#VER "T" 100 20260709 "Kortkîp LA MALCRIADA BRUNCH (-0179)" 20260709
+{
+    #TRANS 1946 { } -183.45
+    #TRANS 2771 { } 183.45
+}
+#VER "T" 101 20260709 "Kortkîp ANTHROPIC* CLAUDE TEAM (-4889)" 20260709
+{
+    #TRANS 1946 { } -56.30
+    #TRANS 2771 { } 56.30
+}
+#VER "T" 102 20260709 "Kortkîp UBR* PENDING.UBER.COM (-0179)" 20260709
+{
+    #TRANS 1946 { } -298.85
+    #TRANS 2771 { } 298.85
+}
+#VER "T" 103 20260709 "Leverantîrsfaktura Skatteverket (1655956774848) - Betalning" 20260709
+{
+    #TRANS 1930 { } -179701.00
+    #TRANS 2440 { } 179701.00
+}
+#VER "T" 104 20260710 "Kortkîp BAR PIMENTEL (-0179)" 20260710
+{
+    #TRANS 1946 { } -263.37
+    #TRANS 2771 { } 263.37
+}
+#VER "T" 105 20260710 "Inbetalning bokfîrd 260709" 20260710
+{
+    #TRANS 1630 { } 179701.00
+    #TRANS 1639 { } -179701.00
+}
+#VER "T" 106 20260710 "Leverantîrsfaktura 7a Sevena AB (95375) - Betalning" 20260711
+{
+    #TRANS 1930 { } -180000.00
+    #TRANS 2440 { } 180000.00
+}
+#VER "T" 107 20260711 "Kortkîp Arc de Triomf (-0179)" 20260711
+{
+    #TRANS 1946 { } -155.84
+    #TRANS 2771 { } 155.84
+}
+#VER "T" 108 20260712 "Kortkîp ROS BORN (-0179)" 20260712
+{
+    #TRANS 1946 { } -306.97
+    #TRANS 2771 { } 306.97
+}
+#VER "T" 109 20260713 "Kortkîp Arlanda Express (-0179)" 20260713
+{
+    #TRANS 1946 { } -160.00
+    #TRANS 2771 { } 160.00
+}
+#VER "T" 110 20260713 "Kortkîp UBR* PENDING.UBER.COM (-0179)" 20260713
+{
+    #TRANS 1946 { } -396.65
+    #TRANS 2771 { } 396.65
+}
+#VER "T" 111 20260714 "Kortkîp UBR* PENDING.UBER.COM (-0179)" 20260714
+{
+    #TRANS 1946 { } -75.00
+    #TRANS 2771 { } 75.00
+}
+#VER "T" 112 20260715 "Leverantîrsfaktura Agentes de la Propiedad Industrial (E26/0203) - Betalning" 20260716
+{
+    #TRANS 1930 { } -41916.81
+    #TRANS 2440 { } 41824.49
+    #TRANS 7960 { } 92.32
+}
+#VER "T" 113 20260715 "Leverantîrsfaktura Agentes de la Propiedad Industrial (E26/0202) - Betalning" 20260716
+{
+    #TRANS 1930 { } -23903.66
+    #TRANS 2440 { } 23850.22
+    #TRANS 7960 { } 53.44
+}
+#VER "T" 114 20260715 "Banktransaktion 008E084189481216 CALL.CONTRIBUTION QREDIA" 20260716
+{
+    #TRANS 1930 { } 4999998.15
+    #TRANS 2093 { } -5000000.00
+    #TRANS 6570 { } 1.85
+}
+#VER "T" 115 20260715 "Leverantîrsfaktura Agentes de la Propiedad Industrial (E26/0183) - Betalning" 20260716
+{
+    #TRANS 1930 { } -606.85
+    #TRANS 2440 { } 605.00
+    #TRANS 7960 { } 1.85
+}
+#VER "T" 116 20260716 "Leverantîrsfaktura Visma Solutions Oy (13044795) - Betalning" 20260717
+{
+    #TRANS 1930 { } -195.00
+    #TRANS 2440 { } 195.00
+}
+#VER "T" 117 20260716 "Leverantîrsfaktura 7a Sevena AB (95373) - Betalning" 20260717
+{
+    #TRANS 1930 { } -90000.00
+    #TRANS 2440 { } 90000.00
+}
+#VER "T" 118 20260716 "Leverantîrsfaktura Deloitte AB (364001000132777) - Betalning" 20260717
+{
+    #TRANS 1930 { } -252661.69
+    #TRANS 2440 { } 251948.09
+    #TRANS 7960 { } 713.60
+}
+#VER "T" 119 20260717 "Kortkîp ANTHROPIC* CLAUDE TEAM (-4889)" 20260717
+{
+    #TRANS 1946 { } -2868.02
+    #TRANS 2771 { } 2868.02
+}
+#VER "T" 120 20260717 "Leverantîrsfaktura Craig Shaw (UtlÑgg) - Betalning" 20260718
+{
+    #TRANS 1930 { } -6717.93
+    #TRANS 2440 { } 6717.93
+}
+#VER "T" 121 20260717 "Leverantîrsfaktura Mesther AB / Fortnox Finans AB (534812304573457) - Betalning" 20260718
+{
+    #TRANS 1930 { } -122656.00
+    #TRANS 2440 { } 122656.00
+}
+#VER "T" 122 20260717 "Leverantîrsfaktura Viktor Karlstrîm (UtlÑgg) - Betalning" 20260718
+{
+    #TRANS 1930 { } -10091.38
+    #TRANS 2440 { } 10091.38
+}
+#VER "T" 123 20260723 "Lîn till anstÑlld" 20260724
+{
+    #TRANS 1613 { } 38806.00
+    #TRANS 1930 { } -38806.00
+}
+#VER "T" 124 20260723 "Lîn till anstÑlld" 20260724
+{
+    #TRANS 1613 { } 44357.00
+    #TRANS 1930 { } -44357.00
+}
+#VER "T" 125 20260723 "Lîn till anstÑlld" 20260724
+{
+    #TRANS 1613 { } 114912.00
+    #TRANS 1930 { } -114912.00
+}
+#VER "T" 126 20260725 "Kortkîp SLACK T0ANUNW2DND (-4889)" 20260725
+{
+    #TRANS 1946 { } -3005.84
+    #TRANS 2771 { } 3005.84
+}
+#VER "T" 127 20260727 "Kortkîp MICROSOFTG173268183 (-4889)" 20260727
+{
+    #TRANS 1946 { } -4014.50
+    #TRANS 2771 { } 4014.50
+}
+#VER "T" 128 20260728 "Bankkostnader - AVGIFT, DBS 3825-0233052396, 150E084452713514" 20260729
+{
+    #TRANS 1930 { } -1.85
+    #TRANS 6570 { } 1.85
+}
+#VER "T" 129 20260728 "Banktransaktion 150E084452713514 YOUR MAIL 17 JULIO 2026" 20260729
+{
+    #TRANS 1930 { } 571.13
+    #TRANS 2615 { } 142.78
+    #TRANS 6930 { } -142.78
+    #TRANS 6930 { } -571.13
+}
+#VER "T" 130 20260730 "Leverantîrsfaktura 7a Sevena AB (95719) - Betalning" 20260731
+{
+    #TRANS 1930 { } -4970.00
+    #TRANS 2440 { } 4970.00
+}
+#VER "T" 131 20260731 "Kortkîp NORD* TEAMS (-7611)" 20260731
+{
+    #TRANS 1946 { } -1500.76
+    #TRANS 2771 { } 1500.76
+}
+#VER "T" 132 20260731 "Banktransaktion AG11 N" 20260801
+{
+    #TRANS 1930 { } -50000.00
+    #TRANS 1946 { } 50000.00
+}
+#VER "T" 133 20260801 "Kortkîp HEXNODE   MITSOGO INC (-4889)" 20260801
+{
+    #TRANS 1946 { } -915.92
+    #TRANS 2771 { } 915.92
+}
+#VER "T" 134 20260803 "Kortkîp AWS EMEA (-4889)" 20260803
+{
+    #TRANS 1946 { } -9.64
+    #TRANS 2771 { } 9.64
+}
+#VER "T" 135 20260803 "Kortkîp AWS EMEA (-4889)" 20260803
+{
+    #TRANS 1946 { } -7265.11
+    #TRANS 2771 { } 7265.11
+}
+#VER "T" 136 20260803 "Kortkîp Google Workspaceqredia.s (-4889)" 20260803
+{
+    #TRANS 1946 { } -6223.77
+    #TRANS 2771 { } 6223.77
+}
+#VER "T" 137 20260803 "Kortkîp hallon (-7611)" 20260803
+{
+    #TRANS 1946 { } -223.75
+    #TRANS 2771 { } 223.75
+}
+#VER "T" 138 20260801 "IntÑktsrÑnta" 20260803
+{
+    #TRANS 1630 { } 22.00
+    #TRANS 8314 { } -22.00
+}
+#VER "T" 139 20260803 "Leverantîrsfaktura Agentes de la Propiedad Industrial (E26/0249) - Betalning" 20260804
+{
+    #TRANS 1930 { } -2423.07
+    #TRANS 2440 { } 2411.15
+    #TRANS 7960 { } 11.92
+}
+#VER "T" 140 20260804 "Kortkîp ANTHROPIC* CLAUDE SUB (-7238)" 20260804
+{
+    #TRANS 1946 { } -254.49
+    #TRANS 2771 { } 254.49
+}
+#VER "T" 141 20260817 "Avdragen skatt juli 2026" 20260804
+{
+    #TRANS 1630 { } -111331.00
+    #TRANS 1639 { } 111331.00
+}
+#VER "T" 142 20260817 "Arbetsgivaravgift juli 2026" 20260804
+{
+    #TRANS 1630 { } -97215.00
+    #TRANS 1639 { } 97215.00
+}
+#VER "T" 143 20260817 "Moms april 2026 - juni 2026" 20260804
+{
+    #TRANS 1630 { } -12491.00
+    #TRANS 2650 { } 12491.00
+}
+#VER "T" 144 20260805 "Leverantîrsfaktura Zenvise AB (138065) - Betalning" 20260806
+{
+    #TRANS 1930 { } -361406.00
+    #TRANS 2440 { } 361406.00
+}
+#VER "T" 145 20260805 "Leverantîrsfaktura Vilja Solutions AB (11178) - Betalning" 20260806
+{
+    #TRANS 1930 { } -250000.00
+    #TRANS 2440 { } 250000.00
+}
+#VER "T" 146 20260808 "Kortkîp NORD* TEAMS (-7611)" 20260808
+{
+    #TRANS 1946 { } -125.82
+    #TRANS 2771 { } 125.82
+}
+#VER "T" 147 20260812 "Kortkîp BELGOBAREN (-7238)" 20260812
+{
+    #TRANS 1946 { } -620.00
+    #TRANS 2771 { } 620.00
+}
+#VER "T" 148 20260813 "Leverantîrsfaktura Skatteverket (1655956774848) - Betalning" 20260814
+{
+    #TRANS 1930 { } -221037.00
+    #TRANS 2440 { } 221037.00
+}
+#VER "T" 149 20260814 "Leverantîrsfaktura Visma Solutions Oy (13045915) - Betalning" 20260815
+{
+    #TRANS 1930 { } -140.00
+    #TRANS 2440 { } 140.00
+}
+#VER "T" 150 20260815 "Kortkîp ANTHROPIC* CLAUDE TEAM (-4889)" 20260815
+{
+    #TRANS 1946 { } -34.90
+    #TRANS 2771 { } 34.90
+}
+#VER "T" 151 20260815 "Inbetalning bokfîrd 260813" 20260815
+{
+    #TRANS 1630 { } 221037.00
+    #TRANS 1639 { } -221037.00
+}
+#VER "T" 152 20260817 "Kortkîp ANTHROPIC* CLAUDE TEAM (-4889)" 20260817
+{
+    #TRANS 1946 { } -3808.41
+    #TRANS 2771 { } 3808.41
+}
+#VER "T" 153 20260821 "Kortkîp BELGOBAREN (-7238)" 20260821
+{
+    #TRANS 1946 { } -775.00
+    #TRANS 2771 { } 775.00
+}
+#VER "T" 154 20260821 "Kortkîp MIRO.COM (-4889)" 20260821
+{
+    #TRANS 1946 { } -113.19
+    #TRANS 2771 { } 113.19
+}
+#VER "T" 155 20260822 "Kortkîp Jula Sverige AB (-0179)" 20260822
+{
+    #TRANS 1946 { } -1098.00
+    #TRANS 2771 { } 1098.00
+}
+#VER "T" 156 20260822 "Kortkîp Hemkop Stockholm Cit (-0179)" 20260822
+{
+    #TRANS 1946 { } -92.77
+    #TRANS 2771 { } 92.77
+}
+#VER "T" 157 20260824 "Lîn till anstÑlld" 20260825
+{
+    #TRANS 1613 { } 47817.00
+    #TRANS 1930 { } -47817.00
+}
+#VER "T" 158 20260824 "Lîn till anstÑlld" 20260825
+{
+    #TRANS 1613 { } 36930.00
+    #TRANS 1930 { } -36930.00
+}
+#VER "T" 159 20260824 "Lîn till anstÑlld" 20260825
+{
+    #TRANS 1613 { } 34855.14
+    #TRANS 1930 { } -34855.14
+}
+#VER "T" 160 20260826 "Leverantîrsfaktura Kleer Group AB (300686) - Betalning" 20260827
+{
+    #TRANS 1930 { } -6250.00
+    #TRANS 2440 { } 6250.00
+}
+#VER "T" 161 20260826 "Lîn till anstÑlld" 20260827
+{
+    #TRANS 1613 { } 120960.00
+    #TRANS 1930 { } -120960.00
+}
+#VER "T" 162 20260826 "Leverantîrsfaktura Fortnox Finans AB (547132362128655) - Betalning" 20260827
+{
+    #TRANS 1930 { } -101875.00
+    #TRANS 2440 { } 101875.00
+}
+#VER "T" 163 20260826 "Leverantîrsfaktura Kleer Group AB (298970) - Betalning" 20260827
+{
+    #TRANS 1930 { } -6250.00
+    #TRANS 2440 { } 6250.00
+}
+#VER "T" 164 20260827 "Kortkîp Systembolaget (-0179)" 20260827
+{
+    #TRANS 1946 { } -413.40
+    #TRANS 2771 { } 413.40
+}
+#VER "T" 165 20260827 "Kortkîp SERGEL EVENT & (-0179)" 20260827
+{
+    #TRANS 1946 { } -5593.50
+    #TRANS 2771 { } 5593.50
+}
+#VER "T" 166 20260829 "Kortkîp Norwegian.com (-7968)" 20260829
+{
+    #TRANS 1946 { } -3609.00
+    #TRANS 2771 { } 3609.00
+}
+#VER "T" 167 20260829 "Kortkîp Norwegian.com (-0179)" 20260829
+{
+    #TRANS 1946 { } -3609.00
+    #TRANS 2771 { } 3609.00
+}
+#VER "T" 168 20260829 "Kortkîp norwegian.com (-7238)" 20260829
+{
+    #TRANS 1946 { } -2798.00
+    #TRANS 2771 { } 2798.00
+}
+#VER "T" 169 20260829 "Kortkîp SLACK T0ANUNW2DND (-4889)" 20260829
+{
+    #TRANS 1946 { } -2661.80
+    #TRANS 2771 { } 2661.80
+}
+#VER "T" 170 20260830 "Kortkîp NORD* TEAMS (-7611)" 20260830
+{
+    #TRANS 1946 { } -1640.21
+    #TRANS 2771 { } 1640.21
+}
+#VER "T" 171 20260830 "Kortkîp ANTHROPIC* CLAUDE TEAM (-4889)" 20260830
+{
+    #TRANS 1946 { } -556.43
+    #TRANS 2771 { } 556.43
+}
+#VER "T" 172 20260831 "Kortkîp norwegian.com (-9638)" 20260831
+{
+    #TRANS 1946 { } -4537.00
+    #TRANS 2771 { } 4537.00
+}
+#VER "T" 173 20260831 "Leverantîrsfaktura 7a Sevena AB (95871) - Betalning" 20260901
+{
+    #TRANS 1930 { } -590.00
+    #TRANS 2440 { } 590.00
+}
+#VER "T" 174 20260901 "Kortkîp HEXNODE   MITSOGO INC (-4889)" 20260901
+{
+    #TRANS 1946 { } -905.21
+    #TRANS 2771 { } 905.21
+}
+#VER "T" 175 20260901 "Banktransaktion AG11 N" 20260902
+{
+    #TRANS 1930 { } -50000.00
+    #TRANS 1946 { } 50000.00
+}
+#VER "T" 176 20260902 "Kortkîp SERGEL EVENT & (-9638)" 20260902
+{
+    #TRANS 1946 { } -3984.00
+    #TRANS 2771 { } 3984.00
+}
+#VER "T" 177 20260902 "Banktransaktion AG11 N" 20260903
+{
+    #TRANS 1930 { } -50000.00
+    #TRANS 1946 { } 50000.00
+}
+#VER "T" 178 20260903 "Kortkîp Google Workspaceqredia.s (-4889)" 20260903
+{
+    #TRANS 1946 { } -10559.50
+    #TRANS 2771 { } 10559.50
+}
+#VER "T" 179 20260903 "Kortkîp AWS EMEA (-4889)" 20260903
+{
+    #TRANS 1946 { } -28.48
+    #TRANS 2771 { } 28.48
+}
+#VER "T" 180 20260903 "Kortkîp AWS EMEA (-4889)" 20260903
+{
+    #TRANS 1946 { } -21720.49
+    #TRANS 2771 { } 21720.49
+}
+#VER "T" 181 20260914 "Arbetsgivaravgift aug 2026" 20260903
+{
+    #TRANS 1630 { } -116758.00
+    #TRANS 1639 { } 116758.00
+}
+#VER "T" 182 20260914 "Avdragen skatt aug 2026" 20260903
+{
+    #TRANS 1630 { } -131043.00
+    #TRANS 1639 { } 131043.00
+}
+#VER "T" 183 20260903 "Banktransaktion AG11 N" 20260904
+{
+    #TRANS 1930 { } -50000.00
+    #TRANS 1946 { } 50000.00
+}
+#VER "T" 184 20260904 "Kortkîp hallon (-7611)" 20260904
+{
+    #TRANS 1946 { } -606.29
+    #TRANS 2771 { } 606.29
+}
+#VER "T" 185 20260904 "Kortkîp ANTHROPIC* CLAUDE SUB (-7238)" 20260904
+{
+    #TRANS 1946 { } -257.09
+    #TRANS 2771 { } 257.09
+}
+#VER "T" 186 20260904 "Kortkîp Microsoft-G179876189 (-4889)" 20260904
+{
+    #TRANS 1946 { } -4014.50
+    #TRANS 2771 { } 4014.50
+}
+#VER "T" 187 20260904 "Kortkîp MICROSOFTG181033847 (-4889)" 20260904
+{
+    #TRANS 1946 { } -148.93
+    #TRANS 2771 { } 148.93
+}
+#VER "T" 188 20260905 "IntÑktsrÑnta" 20260907
+{
+    #TRANS 1630 { } 27.00
+    #TRANS 8314 { } -27.00
+}
+#VER "T" 189 20260908 "Kortkîp BD SUPERMARKET BCN (-7968)" 20260908
+{
+    #TRANS 1946 { } -108.46
+    #TRANS 2771 { } 108.46
+}
+#VER "T" 190 20260908 "Kortkîp TAXI LLIC. 6610 (-9638)" 20260908
+{
+    #TRANS 1946 { } -567.50
+    #TRANS 2771 { } 567.50
+}
+#VER "T" 191 20260908 "Kortkîp Flygbussarna (-9638)" 20260908
+{
+    #TRANS 1946 { } -149.00
+    #TRANS 2771 { } 149.00
+}
+#VER "T" 192 20260908 "Kortkîp AFTERLIFE (-0179)" 20260908
+{
+    #TRANS 1946 { } -905.02
+    #TRANS 2771 { } 905.02
+}
+#VER "T" 193 20260908 "Kortkîp Arlanda Express (-0179)" 20260908
+{
+    #TRANS 1946 { } -160.00
+    #TRANS 2771 { } 160.00
+}
+#VER "T" 194 20260909 "Kortkîp Arc de Triomf (-7968)" 20260909
+{
+    #TRANS 1946 { } -927.34
+    #TRANS 2771 { } 927.34
+}
+#KSUMMA 4020077328
+
