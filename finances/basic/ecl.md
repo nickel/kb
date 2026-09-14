@@ -67,3 +67,23 @@ decides the stage, `PdLgdResolver` looks up the rates by (segment, country, stag
 
 And `VerifyEclLedgerConsistencyOperation` checks the model and the ledger still agree — it runs daily and **blocks period close**
 if it hasn't passed clean on every business day. That's the control that catches the classic failure: `loan.provision_amount_cents` and the `loss_allowance` ledger balance drifting apart.
+
+## ECL Recalculation
+
+In a example, every figure reconciles exactly:
+
+|                     |                                                                    |
+| ------------------- | ------------------------------------------------------------------ |
+| Stage / calibration | 1, version 1.0, SE `personal_loan`                                 |
+| PD × LGD            | 0.03 × 0.55 = **0.0165**                                           |
+| EAD at origination  | 22,686,480 → ×0.0165 = **374,327** (the 2026-06-28 posting)        |
+| EAD now             | 22,056,300 → ×0.0165 = **363,929** (`loan.provision_amount_cents`) |
+| Delta               | **10,398**                                                         |
+
+**Cause:** two installments were paid on 2026-08-28, totalling 630,180 cents. `OutstandingBalanceCalculator` (`packs/lending/app/public/queries/outstanding_balance_calculator.rb:26`) sums `amount_cents - paid_cents` over still-owed installments, so EAD fell by exactly that, and `RecalculateProvisionOperation:76` recomputed `(ead * pd * lgd).round`. Stage never moved — DPD 0 throughout, still stage 1. Pure EAD effect.
+
+Two things worth knowing about what you're looking at:
+
+**The 15-day lag is a seed artifact.** Payment landed 2026-08-28, release posted 2026-09-12. `created_at` and `posted_at` are both exactly `2026-09-12 00:00:00 UTC`, and there is no `DailyJobRun` row for 2026-09-12 at all — the last is 2026-09-11. So this row came from the seed's terminal pass stamped at "today", not from a nightly batch. Don't read the date as production behaviour. Separately though: `RecordInstallmentPaymentOperation` does not recalc the provision inline, so even in production the release waits for `DailyArrearsBatchJob` the following night.
+
+**EAD includes unearned future interest, and that looks wrong.** `amount_cents` per installment is principal + interest, so EAD is the undiscounted contractual total: 22,686,480 against a principal of 17,500,000 — 29.6% higher than the loan's carrying amount. IFRS 9 measures ECL on the gross carrying amount (principal plus accrued-but-unpaid interest), as the present value of cash shortfalls discounted at the EIR; interest not yet earned is not an exposure. If that reading holds, every stage-1 allowance on an interest-bearing loan is overstated by roughly the unearned-interest ratio.
