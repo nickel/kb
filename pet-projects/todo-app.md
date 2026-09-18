@@ -9,6 +9,6 @@ Instant capture as its own tiny mode: launch, type, enter, exit. Bind it to a fl
 Undo as a first-class key, not a menu item. Makes destructive keys safe, which makes the whole thing feel fast.
 The task can be part of another task (moving a task to the right or creating a subtask for a task).
 If a mark a parent task as completed, subtasks will be marked as well, and moved to another section (completed).
-I can uncomplete tasks, but subtasks only can be uncompleted when the parent task is uncompleted.
+I can uncomplete tasks, but subtasks only can be uncompleted when the parent task is uncompletedt c.
 The keys should be configurable on ~/.config/<app_name> folder.
 Timers. t starts a timer on the selected task, stopping it writes a duration event. After a week you have real data on where time went.
