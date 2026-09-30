@@ -2,6 +2,12 @@
 
 Bit by bit, let's start to accumulate knowledge.
 
+## AI
+
+### Starting prompt for learning.
+
+Plain words, no fancy words, no jargon, no llm-ish stuff. Be fucking human. I want to understand financial concepts from a developer perspective. Let's start.
+
 ## Finances
 
 ### Basic
