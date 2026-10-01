@@ -293,3 +293,28 @@ Both directions share `DeferredFeeAllocation`, deliberately. Your fee income and
 ### The one-sentence version
 
 The contract says the consumer owes 131,816 öre of interest plus a 49,500 öre fee. Accounting says you earned 181,316 öre of interest and no fee at all. Same money, and EIR is the rate that makes the second statement arithmetically true.
+
+
+## El cuadro completo
+
+                  ┌─ flujo de caja del consumidor ─┐
+setup fee ────────┤                                 ├──→ APR  (¿es legal?)
+installment fee ──┤  cuota = principal+interés+fee  │
+                  └──────────────┬──────────────────┘──→ EIR  (¿cuánto gané?)
+                                 │
+broker fee ───→ activo diferido ─┴─→ coste amortizado    (línea aparte)
+merchant fee ─→ ingreso inmediato + IVA                  (otra relación)
+late fee ─────→ ingreso al devengo                       (imprevisible)
+
+Regla mental
+
+¿La paga el consumidor, y está en el contrato desde el día 1?
+
+- Sí → está en el APR y en el EIR, automáticamente, porque está en la cuota.
+- No → está en otro sitio, y ahí sí hay que decidir dónde.
+
+Las tres que quedan fuera lo están por tres razones distintas:
+
+broker fee    la paga otro (tú)         → decisión de diseño de este repo
+merchant fee  la paga otro (el comercio) → otra relación comercial, con IVA
+late fee      no se conoce el día 1      → imprevisible por definición
